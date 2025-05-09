@@ -405,10 +405,6 @@
 		<data>
 		KvbQcSQr72Q69PEr/Ov/YALOJas=
 		</data>
-		<key>CSJAdSDK.bundle/bu_playable_loading.png</key>
-		<data>
-		dGi+ySoQQL6kA2TACQISI4Gq9Ig=
-		</data>
 		<key>CSJAdSDK.bundle/bu_replay.png</key>
 		<data>
 		K1VEpjYOaxIPBRBBEk9U7azBjRY=
@@ -578,10 +574,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>CSJAdSDK.bundle/heart_beat.json</key>
-		<data>
-		BYy0J7+EmI+Ws9wp1Q8LQ2XUGOY=
-		</data>
 		<key>CSJAdSDK.bundle/image_assets.json</key>
 		<data>
 		1NOILQatbZ0f57NnC3BSokUvrJ4=
@@ -604,10 +596,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>CSJAdSDK.bundle/playable_loading_bg.png</key>
-		<data>
-		RUykUHq104NGKKEdjvqIy6YvFeA=
-		</data>
 		<key>CSJAdSDK.bundle/setup.txt</key>
 		<data>
 		ZM3A57y/v18OGzuvfRFEJO3U2Co=
@@ -652,10 +640,6 @@
 		<data>
 		h6RnnQNTHAn/W+WmMSzPYNWgHTc=
 		</data>
-		<key>CSJAdSDK.bundle/uchain_dsl.bin</key>
-		<data>
-		VxwQ2w+O6dAlPZ2nMYJW6m4M7Yg=
-		</data>
 		<key>CSJAdSDK.bundle/version.txt</key>
 		<data>
 		lqTJ+1W682fkbvyIUKHIg7S+9D4=
@@ -685,82 +669,6 @@
 		<key>Info.plist</key>
 		<data>
 		NGzbQjs5dJkyQDCsivW3+aBRLqg=
-		</data>
-		<key>OctAdSDK.bundle/Info.plist</key>
-		<data>
-		Cezz01p0pBf8HFEFgVk0hSmsL+o=
-		</data>
-		<key>OctAdSDK.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		PFHYbs0V3eUFDWQyYQcwEetuqEk=
-		</data>
-		<key>OctAdSDK.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		YuGtBdjU2KbTol37O+pPk4uSKcU=
-		</data>
-		<key>OctAdSDK.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		UFQw9MItbBDBywMrtsf5aOAqZR8=
-		</data>
-		<key>OctAdSDK.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		YDajS+VexNJH1Ye1TPGezhYlnNQ=
-		</data>
-		<key>OctAdSDK.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		LCRJbxYdJwwNi4cKywasOOcjv/I=
-		</data>
-		<key>OctAdSDK.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		6eo+HBffK+NHpNIsSLInRCoeRiY=
-		</data>
-		<key>OctCore.bundle/Info.plist</key>
-		<data>
-		VX9ECvZLrgjOeKwQh52lfm42VAg=
-		</data>
-		<key>OctCore.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		zUHyXw38WAU/pysNeGJjFf3HAeg=
-		</data>
-		<key>OctCore.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		0gXRk9ik9Vd22XgFPdW2z1DEWf4=
-		</data>
-		<key>OctCore.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		jSBlJjuhlk0iHk4Yqcn+6KsOrEk=
-		</data>
-		<key>OctCore.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		xgBal0/D6hGXooGkV//S6g/OKbU=
-		</data>
-		<key>OctCore.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		Xz1idCw7pNgBcIWyZJR8+Hj/7/c=
-		</data>
-		<key>OctCore.bundle/oct_rotate_01.png</key>
-		<data>
-		+frDPCeSIke4gsW1QYEeB/wowdQ=
-		</data>
-		<key>OctCore.bundle/oct_rotate_02.png</key>
-		<data>
-		ODSAnwLljjqFTZ1UqwOjAwZWpVc=
-		</data>
-		<key>OctCore.bundle/oct_rotate_03.png</key>
-		<data>
-		yOK1FjmPYtzffVj+DLc+jC7DQnc=
-		</data>
-		<key>OctCore.bundle/oct_rotate_04.png</key>
-		<data>
-		nu/qt2FmlSxlEQL9AwiL1vuv2Ho=
-		</data>
-		<key>OctCore.bundle/octlogo.png</key>
-		<data>
-		loe9PmO7hPQsrcxudqANHOUbkgk=
-		</data>
-		<key>OctCore.bundle/remdad.png</key>
-		<data>
-		yXw+FeK8qnpWkG2fqY3SNoUMDXQ=
 		</data>
 		<key>baidumobadsdk.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -2148,17 +2056,6 @@
 			n5MLkbblpIG15isReWt2Wi/X+U3mrelbIIiGvBjAFrU=
 			</data>
 		</dict>
-		<key>CSJAdSDK.bundle/bu_playable_loading.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			dGi+ySoQQL6kA2TACQISI4Gq9Ig=
-			</data>
-			<key>hash2</key>
-			<data>
-			hcS4StHkUrz7BkgPT6qcE/7cbRc/A02iaKOHgOylR2k=
-			</data>
-		</dict>
 		<key>CSJAdSDK.bundle/bu_replay.png</key>
 		<dict>
 			<key>hash</key>
@@ -2612,17 +2509,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>CSJAdSDK.bundle/heart_beat.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BYy0J7+EmI+Ws9wp1Q8LQ2XUGOY=
-			</data>
-			<key>hash2</key>
-			<data>
-			lG0WlJ0MNn9g6gLsFd1ed8gzepkQn5iPzzAuULTcOKA=
-			</data>
-		</dict>
 		<key>CSJAdSDK.bundle/image_assets.json</key>
 		<dict>
 			<key>hash</key>
@@ -2659,17 +2545,6 @@
 			</data>
 			<key>optional</key>
 			<true/>
-		</dict>
-		<key>CSJAdSDK.bundle/playable_loading_bg.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RUykUHq104NGKKEdjvqIy6YvFeA=
-			</data>
-			<key>hash2</key>
-			<data>
-			r1HT+xJGLwfdFUKq2C6KWYq+dS8owTwAAHYvIcK0L08=
-			</data>
 		</dict>
 		<key>CSJAdSDK.bundle/setup.txt</key>
 		<dict>
@@ -2792,17 +2667,6 @@
 			32P5wHuBd4T5J4kEHQ7GnHrUoFdeQIl7ViYY+2eR2wE=
 			</data>
 		</dict>
-		<key>CSJAdSDK.bundle/uchain_dsl.bin</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			VxwQ2w+O6dAlPZ2nMYJW6m4M7Yg=
-			</data>
-			<key>hash2</key>
-			<data>
-			SBsCtpWrS7xskx3GYITGChpiBgCf8u/pBZesqUbZ9Bw=
-			</data>
-		</dict>
 		<key>CSJAdSDK.bundle/version.txt</key>
 		<dict>
 			<key>hash</key>
@@ -2849,215 +2713,6 @@
 			<key>hash2</key>
 			<data>
 			Wp6X7StBEeVWnEMQXOIMldZEs/OolZ4tBgGX+l9gXBU=
-			</data>
-		</dict>
-		<key>OctAdSDK.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Cezz01p0pBf8HFEFgVk0hSmsL+o=
-			</data>
-			<key>hash2</key>
-			<data>
-			bWZB6yPdoaYLPfOyPS7bOAFt58C25wlc0b+Hf6LAuGY=
-			</data>
-		</dict>
-		<key>OctAdSDK.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			PFHYbs0V3eUFDWQyYQcwEetuqEk=
-			</data>
-			<key>hash2</key>
-			<data>
-			A7LHCDOjMaKx79Ef8WjtAqjq39Xn0fvzDuzHUJpK6kc=
-			</data>
-		</dict>
-		<key>OctAdSDK.bundle/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YuGtBdjU2KbTol37O+pPk4uSKcU=
-			</data>
-			<key>hash2</key>
-			<data>
-			UpxOB/wG73kXXMbv91LDDB1ZkLgYxLla/gYHRIE4x3g=
-			</data>
-		</dict>
-		<key>OctAdSDK.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			UFQw9MItbBDBywMrtsf5aOAqZR8=
-			</data>
-			<key>hash2</key>
-			<data>
-			Idwc07w0dwxyfp4LfYsPR2ApQXyF7r4FcvQ/x82z8SY=
-			</data>
-		</dict>
-		<key>OctAdSDK.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YDajS+VexNJH1Ye1TPGezhYlnNQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			3aVUfGiAQs4MaiKCHDoCsGZkibSJ+4sGh3MhgYCjoi0=
-			</data>
-		</dict>
-		<key>OctAdSDK.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LCRJbxYdJwwNi4cKywasOOcjv/I=
-			</data>
-			<key>hash2</key>
-			<data>
-			mSuAAmd7twZr2StmdViVW3Tq+i1lbxxxoQQ3sgoXSS0=
-			</data>
-		</dict>
-		<key>OctAdSDK.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			6eo+HBffK+NHpNIsSLInRCoeRiY=
-			</data>
-			<key>hash2</key>
-			<data>
-			CsfhymiRy34QQWq/QZWK3axbp/PwFQHerQmJyTZ488Y=
-			</data>
-		</dict>
-		<key>OctCore.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			VX9ECvZLrgjOeKwQh52lfm42VAg=
-			</data>
-			<key>hash2</key>
-			<data>
-			5qr5ObH7N24brAZAeZSDfcFlG9peNougTBp+ign6r9Q=
-			</data>
-		</dict>
-		<key>OctCore.bundle/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zUHyXw38WAU/pysNeGJjFf3HAeg=
-			</data>
-			<key>hash2</key>
-			<data>
-			qzQ391bHS8TE3RZMNuIx+10qtShT0HLgWgW/cPikMQQ=
-			</data>
-		</dict>
-		<key>OctCore.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			0gXRk9ik9Vd22XgFPdW2z1DEWf4=
-			</data>
-			<key>hash2</key>
-			<data>
-			vvZQX9eqhZLJBOCpcF0o2fXgmT4DTH34g/Bgnqz10SU=
-			</data>
-		</dict>
-		<key>OctCore.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jSBlJjuhlk0iHk4Yqcn+6KsOrEk=
-			</data>
-			<key>hash2</key>
-			<data>
-			QQjBgBIGidyXZbous77VFm2KiW9A6iADMxq6II6KYXM=
-			</data>
-		</dict>
-		<key>OctCore.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xgBal0/D6hGXooGkV//S6g/OKbU=
-			</data>
-			<key>hash2</key>
-			<data>
-			MUCjAsVCuz1V0M9bBb0laTIJfATU6YcoVSWPn4JUxcU=
-			</data>
-		</dict>
-		<key>OctCore.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Xz1idCw7pNgBcIWyZJR8+Hj/7/c=
-			</data>
-			<key>hash2</key>
-			<data>
-			EpfkRxzQOjwUmrzfM9rIKm4ZqcdA4WLFSA+YaFAfhYk=
-			</data>
-		</dict>
-		<key>OctCore.bundle/oct_rotate_01.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+frDPCeSIke4gsW1QYEeB/wowdQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			uLR1JUd5W8/BznF/emLwbzCXbTxkJg31FxRKwcyi4ww=
-			</data>
-		</dict>
-		<key>OctCore.bundle/oct_rotate_02.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ODSAnwLljjqFTZ1UqwOjAwZWpVc=
-			</data>
-			<key>hash2</key>
-			<data>
-			v2/8CPzRCQWVSaoaRga+At9FlLh+dwcv27diiOtpH84=
-			</data>
-		</dict>
-		<key>OctCore.bundle/oct_rotate_03.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yOK1FjmPYtzffVj+DLc+jC7DQnc=
-			</data>
-			<key>hash2</key>
-			<data>
-			L3+VhQMQT3E8fv8HO4pDI/hu6xCTsnJS8SxrnabsS0Y=
-			</data>
-		</dict>
-		<key>OctCore.bundle/oct_rotate_04.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nu/qt2FmlSxlEQL9AwiL1vuv2Ho=
-			</data>
-			<key>hash2</key>
-			<data>
-			yzQrHQmdnQkcQDfJ6LO0vtINaTamuYCdl1c47SwLYB0=
-			</data>
-		</dict>
-		<key>OctCore.bundle/octlogo.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			loe9PmO7hPQsrcxudqANHOUbkgk=
-			</data>
-			<key>hash2</key>
-			<data>
-			aPGTYQgn/Btf3P4ELr+bycSVAkk1FhYkXXJTFaAKPLs=
-			</data>
-		</dict>
-		<key>OctCore.bundle/remdad.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yXw+FeK8qnpWkG2fqY3SNoUMDXQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			qCtIgoW/cLa7R+5NjQshhA1Q+1INYR9K+uNofFJOcEA=
 			</data>
 		</dict>
 		<key>baidumobadsdk.bundle/PrivacyInfo.xcprivacy</key>
