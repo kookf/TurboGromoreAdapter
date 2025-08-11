@@ -1,0 +1,6 @@
+framework module AnyThinkJLAdapter {
+  umbrella header "AnyThinkJLAdapter.h"
+  export *
+
+  module * { export * }
+}
