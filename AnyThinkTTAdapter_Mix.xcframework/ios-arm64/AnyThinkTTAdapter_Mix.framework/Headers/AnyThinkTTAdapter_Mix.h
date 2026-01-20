@@ -2,8 +2,7 @@
 //  AnyThinkTTAdapter_Mix.h
 //  AnyThinkTTAdapter_Mix
 //
-//  Created by Topon on 8/21/23.
-//  Copyright © 2023 AnyThink. All rights reserved.
+//  Created by GUO PENG on 2025/4/20.
 //
 
 #import <Foundation/Foundation.h>
@@ -16,4 +15,4 @@ FOUNDATION_EXPORT const unsigned char AnyThinkTTAdapter_MixVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <AnyThinkTTAdapter_Mix/PublicHeader.h>
 
-
+#import <AnyThinkTTAdapter_Mix/ATCSJExtraConfig.h>
