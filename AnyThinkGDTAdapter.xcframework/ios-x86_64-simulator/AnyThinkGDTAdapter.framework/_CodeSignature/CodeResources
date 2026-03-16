@@ -14,11 +14,11 @@
 		</data>
 		<key>Headers/AnyThinkGDTAdapter.h</key>
 		<data>
-		t2eyMI86EPe9ZMLX7j19WAftDdE=
+		qqv9/KDERDXKRApMmstXe8tic50=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		47JFffgt8fAdMxOUW4BI0ehTqlk=
+		cEZw3OmktOHsUI/wCXdeLwq5ofM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -29,10 +29,6 @@
 	<dict>
 		<key>Headers/ATGDTConfigure.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7FZEd56k92RDffjPGY10AYIWGzI=
-			</data>
 			<key>hash2</key>
 			<data>
 			PTHT7RUaSRNNo0EpJZiwzGDJhlldD6hpcPLEfQDgaXI=
@@ -40,10 +36,6 @@
 		</dict>
 		<key>Headers/ATGDTExtraConfig.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rYJ78drx/BhQt0RHiguEKwU+mIw=
-			</data>
 			<key>hash2</key>
 			<data>
 			4uyKtVDyUNvEnfdhUXk9evyBOM/OUf567pXzmUAgMFE=
@@ -51,21 +43,13 @@
 		</dict>
 		<key>Headers/AnyThinkGDTAdapter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			t2eyMI86EPe9ZMLX7j19WAftDdE=
-			</data>
 			<key>hash2</key>
 			<data>
-			3ZaY5epTnXVya8O0xv2ZoJ74b1eYp/kSSZbRJbldgp4=
+			Rv1ZPTucojdvc2KDk032++aRQFYDDSBM2QBTO0bDYBU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			H0nR2ZQYsX3PT7rL9x7Z6qWjhqY=
-			</data>
 			<key>hash2</key>
 			<data>
 			gBhFT8NdkxLP1ED2XQP6hWa7ZWfSE03bumPKQD/PioU=

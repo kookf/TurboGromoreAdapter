@@ -19,7 +19,6 @@ extern NSString *const ATKSNativeAdContainrIsClickableKey;
 extern NSString *const ATKSNativeAdSourceLogoTypeKey;
 
 
-
 @interface ATKSExtraConfig : NSObject
 
 + (void)setExtraConfig:(void(^_Nullable)(KSAdSDKManager* _Nullable configuration))extraConfigBlock;

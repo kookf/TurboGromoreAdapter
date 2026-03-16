@@ -6,15 +6,15 @@
 	<dict>
 		<key>Headers/ATKSExtraConfig.h</key>
 		<data>
-		t/6yUj4MhPdQnfv8zQBq8shdNhc=
+		YhExeM05oytCMnK8JWnWuGjSz9s=
 		</data>
 		<key>Headers/AnyThinkKuaiShouAdapter.h</key>
 		<data>
-		lUs+Jt94+nRNH+heSvURwA+0JCI=
+		3GfewnP6YkNaWvb3IbENjFfcFeM=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Be6cMSWB+IP/rVUG2ohhgupZ6vs=
+		t1NtKZjJSTJN0e//gcKFCeNAh9s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -25,32 +25,20 @@
 	<dict>
 		<key>Headers/ATKSExtraConfig.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			t/6yUj4MhPdQnfv8zQBq8shdNhc=
-			</data>
 			<key>hash2</key>
 			<data>
-			+WgsZPMKB+Md+kNkU2ZPpdWqCXhSG5mOcIg0M1PRgA0=
+			DUCWPpR3EibXCJ+/Mer+ivi7/SDRoOZe6KXb9kF+ots=
 			</data>
 		</dict>
 		<key>Headers/AnyThinkKuaiShouAdapter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lUs+Jt94+nRNH+heSvURwA+0JCI=
-			</data>
 			<key>hash2</key>
 			<data>
-			Npf0vNmGVoyMFMtMiaKkaazqxddjMS0kOeuyofblXws=
+			ecCwaEZIuYvWGdMkmtqYE3WlRevuHlj+WUbVhziv6bM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			eceA/MjEZITQ3i5zwPB61dYEhjY=
-			</data>
 			<key>hash2</key>
 			<data>
 			alvEQAFfBFJbjSFJETtDIWLDtRt/0RkaaHBxrPXI1sk=

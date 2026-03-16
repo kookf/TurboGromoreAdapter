@@ -10,11 +10,11 @@
 		</data>
 		<key>Headers/AnyThinkBaiduAdapter.h</key>
 		<data>
-		b/TJQZ05VCy1xfiv0s20xWpkdY0=
+		ypY59Q6kInZjit9eE+dS/2cC8/Q=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		QOUkVkeyMVwVWB0T7C01mxJKTNQ=
+		Lw36gFh8QpVjHILN1VSc0afofwI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -63,6 +63,14 @@
 		<key>baidumobadsdk.bundle/bd_dislike_unlike.png</key>
 		<data>
 		e8/EpA6DGa/5Wt0c/og+tiEZP78=
+		</data>
+		<key>baidumobadsdk.bundle/bd_feed_magnetic_sticker_middle.png</key>
+		<data>
+		hFn9vy1qKbaXc97/6S7meWR2cyI=
+		</data>
+		<key>baidumobadsdk.bundle/bd_feed_magnetic_sticker_right.png</key>
+		<data>
+		IL233e8Ut5dBIQTPmuKPkqdDnEo=
 		</data>
 		<key>baidumobadsdk.bundle/bd_int_envel_slide.png</key>
 		<data>
@@ -140,6 +148,10 @@
 		<data>
 		ojlp46V+2F7mpGXycuSIpe7LoOo=
 		</data>
+		<key>baidumobadsdk.bundle/bd_mob_ad_bookmard_line.png</key>
+		<data>
+		1QmNoK5fdYosHPvM3Piy9GWBq/A=
+		</data>
 		<key>baidumobadsdk.bundle/bd_mob_ad_bqtlogo.png</key>
 		<data>
 		vCdOP68Gf6xVdSCkt/3HWeyg5AY=
@@ -207,6 +219,14 @@
 		<key>baidumobadsdk.bundle/bd_native_video_lpBack_black.png</key>
 		<data>
 		9tR5BMW7vqKmbwGiWaJkGqegj64=
+		</data>
+		<key>baidumobadsdk.bundle/bd_native_video_lpBack_fill_black.png</key>
+		<data>
+		dXqDD0aUS1zFRbsYk4gIZlnLwQw=
+		</data>
+		<key>baidumobadsdk.bundle/bd_native_video_lpBack_fill_white.png</key>
+		<data>
+		IzWqsZy1GAVVRXh7WSpMICHVCVA=
 		</data>
 		<key>baidumobadsdk.bundle/bd_native_video_lpBack_white.png</key>
 		<data>
@@ -276,9 +296,53 @@
 		<data>
 		9aqsOSFJfShz0gn7OPM1JO6w32M=
 		</data>
+		<key>baidumobadsdk.bundle/bd_splash_coupon_back.png</key>
+		<data>
+		ueT8UtauSs0ECEX/fU4I3efNGME=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_coupon_front.png</key>
+		<data>
+		ljwIxO0XB+Je6UZFK5E301FFoXk=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_coupon_inner.png</key>
+		<data>
+		ZCiU8J/Tdx+Z+rH4U8+OWi2CXkc=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_coupon_max.png</key>
+		<data>
+		oDd5DxsC0giGBFy8/WTIy1Mr2zU=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_coupon_yuan.png</key>
+		<data>
+		dxQUCDnjRxqATL928CRz9ltvdqo=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_def.png</key>
+		<data>
+		ZQSPRfTq9SoMWcuWpDnp5SJG2FM=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_e_commerce_bg.png</key>
+		<data>
+		ui3YAOq/Tri+TP8tilCxRMRDWTE=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_e_commerce_maximum.png</key>
+		<data>
+		BRlArNbYx7wkgcC+EXvqq33od9k=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_e_commerce_price.png</key>
+		<data>
+		eUZUBDJp9Ejrr9nC+xTGWINWEww=
+		</data>
 		<key>baidumobadsdk.bundle/bd_splash_focus.png</key>
 		<data>
 		aNFBuS7V4C9TpmN8cZxhvtWE8v8=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_market_bg.json</key>
+		<data>
+		25CzVZsl9gHDKiZcKnx7X3EjRUU=
+		</data>
+		<key>baidumobadsdk.bundle/bd_splash_market_main.png</key>
+		<data>
+		Yj0WV2L1Vjcg7n9fksSygGjCPmg=
 		</data>
 		<key>baidumobadsdk.bundle/bd_splash_shake.png</key>
 		<data>
@@ -333,10 +397,6 @@
 	<dict>
 		<key>Headers/ATBaiduExtraConfig.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HKqKBfErL+FiGlb/29sVSbYba5Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			Chx5Xy+Rc/2FniYX2OjpPbB3zVf/ywR27W8eHY9CfjM=
@@ -344,21 +404,13 @@
 		</dict>
 		<key>Headers/AnyThinkBaiduAdapter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			b/TJQZ05VCy1xfiv0s20xWpkdY0=
-			</data>
 			<key>hash2</key>
 			<data>
-			b4iX7aF/87ItRzl4q6TKnINi5XNWhSVxO2kG+eeT6Uk=
+			kIUFkOuS0fkfkWVh8r/7NrJ1DXYtsBeF4GWtsEZgUf4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			awKvJlt5f10+SKrqEKGIcNlL75s=
-			</data>
 			<key>hash2</key>
 			<data>
 			m8WtJq75nXXg3BBkQMDq6bIsXNcfC/a16bW4CHciAVI=
@@ -366,10 +418,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FZ8cfJEsHp/pEytM2/jZoKe55U8=
-			</data>
 			<key>hash2</key>
 			<data>
 			8tZVrJn1mBGBmzVpO97LZYbEtjL8b2BaBz5Ikv38M2I=
@@ -377,10 +425,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/anim_black_arc.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9rbJVM/ZSCeF18V08GJRlkvSE6U=
-			</data>
 			<key>hash2</key>
 			<data>
 			/S1TcHpQTu4MEpFUjMgC+pJPU/+H5DLdu08oCf32iBs=
@@ -388,10 +432,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/anim_progress.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iJTgHzFmIXsaHz9W74CAHvGdhYw=
-			</data>
 			<key>hash2</key>
 			<data>
 			4dRvua/FlMs61Pbu07U1fPnhw9FsPeBakDGPdnCed1s=
@@ -399,10 +439,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/anim_shake.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			70/Yfefb577X+HWbgjxeCKNaOCI=
-			</data>
 			<key>hash2</key>
 			<data>
 			uww5QQ7n6PwRjE+B50v2doaCbo3ULWaCxTWhdsJDfz4=
@@ -410,10 +446,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/anim_slide.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ccLO2DLMq/D7ggIlI4NXKWdpArU=
-			</data>
 			<key>hash2</key>
 			<data>
 			u9ZwaNdb/LXwMV+HvlowUVAW2OSTx6zOtAxcq37ZbvU=
@@ -421,10 +453,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_bg_red_ribbon_circle.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vdStSjfcQ5rERVy9dqQ7xzuZao4=
-			</data>
 			<key>hash2</key>
 			<data>
 			z/+T2s4Vrz8FCN8Jv34TfddDGYXDw591gtDAIDucZ8o=
@@ -432,10 +460,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_bg_red_ribbon_rect.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NfWJAhu0i3lGA1G7Dzol6VNRij4=
-			</data>
 			<key>hash2</key>
 			<data>
 			Kk3JBrSynks62MlGR4OokKRr7oJRSRI54NYs2FSek9A=
@@ -443,10 +467,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_dislike_complaints.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			x9ovWUf3x6RpRMMsh0Ug1FoibWY=
-			</data>
 			<key>hash2</key>
 			<data>
 			Ye0+U8MJXJDVnL0yt1zYAcx4UiJ5EgPmwLDJKIqpHrc=
@@ -454,10 +474,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_dislike_lowquality.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			T4lQBoMSirBsgLWxPDnqBuzMfHU=
-			</data>
 			<key>hash2</key>
 			<data>
 			haWwHTNoGVsYZ1WBgXMuvSH6gJOUWf/3lhl/VEB7jo0=
@@ -465,10 +481,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_dislike_repeat.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zhUQmR60HABLQL18nP6h/jtJ77Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			JR08jmAAtPGIdbDTEq4Si1V1tmteHzvu8L7zKmeGoWU=
@@ -476,21 +488,27 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_dislike_unlike.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			e8/EpA6DGa/5Wt0c/og+tiEZP78=
-			</data>
 			<key>hash2</key>
 			<data>
 			meMtgMDWlOysJpet3BuVDtWNqD6DwRvZqlaG2GUzhx4=
 			</data>
 		</dict>
+		<key>baidumobadsdk.bundle/bd_feed_magnetic_sticker_middle.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4JW2ib9Wx9iB4bBy4nIqPW5ZGvk6cioHA3S3H6THzW0=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_feed_magnetic_sticker_right.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+p5TrH2WLCxDYV6kx/1OyV8kSbfL5g6hJG6DUY3sTys=
+			</data>
+		</dict>
 		<key>baidumobadsdk.bundle/bd_int_envel_slide.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			D+edaaiJsG6HBugC7jWo0LOEm34=
-			</data>
 			<key>hash2</key>
 			<data>
 			lIQi+O3cxDfkMm7HAfIXrwwhzYzr1tQqmuFCerUvRVg=
@@ -498,10 +516,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_interstitial_close.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/xgCuvbur2svy8n7cuPX0s7IDdw=
-			</data>
 			<key>hash2</key>
 			<data>
 			b+nR63y7G0CWHEyaYQjBO43EIbeXWDwKXpb2bQvLNLs=
@@ -509,10 +523,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_interstitial_volume_close.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qfwxFeABFGA2fO9fciYzlEYNsGM=
-			</data>
 			<key>hash2</key>
 			<data>
 			viucDUXCTEqCvzM66GmBQ1Bak9st68NA8+0Fp2oZkd0=
@@ -520,10 +530,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_interstitial_volume_open.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xcR+1td5HpMEWNnWLJADRhBHz6Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			8m8R9DP1+if93aJJPxsgEmqEIHbqz1TBSoci1LXpfoU=
@@ -531,10 +537,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_kFeedsVideoPlayerFullscreenImageString.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			d/wfoR/GiK6T012p9O8zPoXeheQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			XCCJNgYHTYKv0RBsPYW3KUf3w9nV56pxXqn3MHCyEzw=
@@ -542,10 +544,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_kNavExpandCloseButtonImageString.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/y1ZUBBz/zRvimq1nexwnvGupjg=
-			</data>
 			<key>hash2</key>
 			<data>
 			HoTk49fwTAdf2RDcnSwgguKhmHJ7O7TSQqhWyweeqFk=
@@ -553,10 +551,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_kVideoBackImageString.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			O9eeTee6BY4mLiZ2lp6HGLGHHTU=
-			</data>
 			<key>hash2</key>
 			<data>
 			9uRfTdXUR9PG8+ycT3X+bzbkKvVOcFL0wvc2W2v9fJg=
@@ -564,10 +558,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_kVideoNewPlayImageString.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LYAp00ye5KNaRmo7PUGQSiuvkis=
-			</data>
 			<key>hash2</key>
 			<data>
 			523sn7x574/KhsvgLArjGoXyniubfyEuu9OS2DOBAYc=
@@ -575,10 +565,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_kVideoPauseImageString.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xLks939r3o7rtcWqgCUOQ9KKAww=
-			</data>
 			<key>hash2</key>
 			<data>
 			epY1fOTrM+mvQksx1ikYU+wMRTHUga1kqMoMY45nY5Y=
@@ -586,10 +572,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_kVideoPlayImageString.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lEBIT7rQ1Qs8aZszxSVCrVKc+xk=
-			</data>
 			<key>hash2</key>
 			<data>
 			gFxkeYIEzBgUZk1TDEEU+wPLtVQ5INkXS+Fcj9n5tY0=
@@ -597,10 +579,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_kVideoSliderImageString.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xwlrkWu1G6jcYAg4PzOcmMmKCBg=
-			</data>
 			<key>hash2</key>
 			<data>
 			DeUsCBn96iKicCFo/RTGqb5f/kTrbeAD6oFtoWae8iM=
@@ -608,10 +586,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_lp_back.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			n4p51SRQLH2i2ndhvzP1NG3ijF4=
-			</data>
 			<key>hash2</key>
 			<data>
 			IeYTTesdr8PlRHEZqTvzLJsYnD14rTCsP5LfyTK8Vqw=
@@ -619,10 +593,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_lp_close.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gmtu+QHLr5s2CfQXoEM0TK3amIQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			N4S6cD5hvG7vtIPt24tvJRWr6IF/QEAPdootlcMmmsI=
@@ -630,10 +600,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_lp_more.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BQ4Va7fkUcYHIpHHSWuKKhsBnPA=
-			</data>
 			<key>hash2</key>
 			<data>
 			49Fbt0vl5V4PDamHEB9yaGr4UY81fn9EkTinL6aGnAE=
@@ -641,10 +607,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_act_back_close.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			X9ZWL4vJI/zHzquB3ohI+G22R08=
-			</data>
 			<key>hash2</key>
 			<data>
 			udEOMAQcPc2aA9arCyz6yBhFH1bJ2LO/oZMwe6SMvps=
@@ -652,10 +614,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_act_front_close.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Ts7MN7+19qjYWrsNJEA7gXjJkDY=
-			</data>
 			<key>hash2</key>
 			<data>
 			1fXoz5E/Zlt2vi2aWnBBjEzvgthAG2XYC8SLGgoASD8=
@@ -663,10 +621,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_adIcon.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7AvdrUXb8RFeQh153p1SKvLTqjQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			bq1hH4eK6yxwUx/j8H91C/I1eJIiInsyNHROV2M+nss=
@@ -674,10 +628,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_ad_33_3_left_bg.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YxbznfHkmdjILcQCsBffBkyIhlk=
-			</data>
 			<key>hash2</key>
 			<data>
 			nEmMAPJngn2xPV6cCu2mCGG0K1cfMscJPLmmCIwc8QY=
@@ -685,21 +635,20 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_ad_33_3_right_bg.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ojlp46V+2F7mpGXycuSIpe7LoOo=
-			</data>
 			<key>hash2</key>
 			<data>
 			ItLsLPE/v8D/MoInaaakh15EGIYY9O6TTxEZjJ+zaA8=
 			</data>
 		</dict>
+		<key>baidumobadsdk.bundle/bd_mob_ad_bookmard_line.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UU5y06IerwKZiIbiSlUvlKyzeRO2Gfq/4XQB/MzDcHA=
+			</data>
+		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_ad_bqtlogo.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vCdOP68Gf6xVdSCkt/3HWeyg5AY=
-			</data>
 			<key>hash2</key>
 			<data>
 			v6pukoxV1vKrtUQ6/OPysgYz3aMkTaPLfYY+lfC7elM=
@@ -707,10 +656,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_adlogo.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			w2miWc1GuMScxu4cX/Pkk/w6yhA=
-			</data>
 			<key>hash2</key>
 			<data>
 			LFmom5O8vZV4wn2ckxMjNEBkhDEIcy+BYUzbFdO+29Q=
@@ -718,10 +663,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_bd_ad_logo.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uWY8TjxKve3It3NR3NWGrh8hgj8=
-			</data>
 			<key>hash2</key>
 			<data>
 			YUSkAX33MlL5bzyW5+OqMGN3bcKLYq0UhxLGVD94WWw=
@@ -729,10 +670,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_bg_logo.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			x2gBolEi3tyibxuq4tmXk9X4HyU=
-			</data>
 			<key>hash2</key>
 			<data>
 			YV5i7Qvzl3/PAW/5K4ufscxPXC9Io6G9eSaAekRfreE=
@@ -740,10 +677,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_black_close.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tTZ+L7+Z7IXS0azAqR8uq0CFpb4=
-			</data>
 			<key>hash2</key>
 			<data>
 			Dl8qgryjrfn4HvNnaBzzpk60qiDp0a5qoySE5g//24E=
@@ -751,10 +684,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_blur.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			q0ArUobuWdMrL/DIchM4+AiRA3I=
-			</data>
 			<key>hash2</key>
 			<data>
 			ewYj8+0+xbF8FcSv70OkKCa2iaFFxvOcKs1QuneDzxI=
@@ -762,10 +691,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_bqtad_icon.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			07y9eF/Hdot+bxBMlvwPi3yBraA=
-			</data>
 			<key>hash2</key>
 			<data>
 			uMOocg+kWYbIUMbx/CuABc2RX0rsL6nUwVhjLeDTNGY=
@@ -773,10 +698,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_bxg_logo.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GRd5LQKei8FlowNsLbmHLQ9vdCU=
-			</data>
 			<key>hash2</key>
 			<data>
 			uVJ23LPMci3df72GOqYDpS7HmS/XyBr8Ue1byHqfumI=
@@ -784,10 +705,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_commends.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UhCWDxzN6xQA1u8uj5VwvSbbPiw=
-			</data>
 			<key>hash2</key>
 			<data>
 			mcuaI8QGhhKMSSDHNvtka+aBEUInqyPezPptobMQn/A=
@@ -795,10 +712,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_dislike.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pDeMjA6q1rgSeMynZfHNo68DzLM=
-			</data>
 			<key>hash2</key>
 			<data>
 			+WqUTRcP0jacxgQv+93orP93hNeqbDc+mkizcKU3whg=
@@ -806,10 +719,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_replay.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			G9jzEfQEXHEjPIbED5CtQUuyItc=
-			</data>
 			<key>hash2</key>
 			<data>
 			pR3O4ZKBqMuwz0EIiaTJG1v9T+gALtHRBmYrblrd3G8=
@@ -817,10 +726,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_star.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5aU9RobG3nuLIvzjyr3+hKHi/e0=
-			</data>
 			<key>hash2</key>
 			<data>
 			AzKu5rjXPvZqwjQeIqJhQu8m84Bvjf+p81H9atVDSd0=
@@ -828,10 +733,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_transparent_adlogo.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VROBeOmpPCQ+47xXTHpyakVIPmo=
-			</data>
 			<key>hash2</key>
 			<data>
 			KGjwhUClKf5abX+gS4Aqqhn4iUkii+4dVeqA/GBdQF8=
@@ -839,10 +740,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_volume_close.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			duNvTqdmZRTOW3rmLKCZxjUrBGA=
-			</data>
 			<key>hash2</key>
 			<data>
 			tgbIkWFCpMwZEVh8EQQ8vdsxDgQoIlrhmilB058XFx0=
@@ -850,10 +747,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_volume_open.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			v6XOJMTlBikcbUo7XKFYKXo1YK4=
-			</data>
 			<key>hash2</key>
 			<data>
 			eURJqVaHNQTlqe29M/9QIeXqsSydUGgUYBTZFHQPCp0=
@@ -861,10 +754,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_mob_white_close.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			q7NaleKW7LHTCsqJ3a6DEMWWvT8=
-			</data>
 			<key>hash2</key>
 			<data>
 			p/HIYLyY5qvVA3P0aVT8AL5YTo4FZdTfyxUTRAGaVW0=
@@ -872,21 +761,27 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_native_video_lpBack_black.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9tR5BMW7vqKmbwGiWaJkGqegj64=
-			</data>
 			<key>hash2</key>
 			<data>
 			tLSQEkoWVmvbfomNxNHkPlJqsTxBWQ2tq/pcFrTZrWc=
 			</data>
 		</dict>
+		<key>baidumobadsdk.bundle/bd_native_video_lpBack_fill_black.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			B9PVZDFmZygN7+YKrzciXZM8Jv0X18kbNknRfHrQeEc=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_native_video_lpBack_fill_white.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hoCY6fpxW9glf8SmqCoWSx1YMdZtbquzdzeNoKFQRnk=
+			</data>
+		</dict>
 		<key>baidumobadsdk.bundle/bd_native_video_lpBack_white.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TACfl1Er/TAUGdjW+HCqwqsPs4Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			LrFiMLTO+fP8WF23fqRxB/iwMMUXl7a6rnMGUm21HC8=
@@ -894,10 +789,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_reward_answer_error.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SZ3Pq5eqzJY8e5h/KtuhdDh3olg=
-			</data>
 			<key>hash2</key>
 			<data>
 			IR6tGI2cWdUhv1gJrSwKnxRjCzZgseSybROfzrlhy/w=
@@ -905,10 +796,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_reward_answer_right.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pWldij9RDEZz3JZfwfmflBvZihA=
-			</data>
 			<key>hash2</key>
 			<data>
 			IPz3rLjgRUMjBYtm3Zh1VpL8N+VkpKV0ukk0cdejSaA=
@@ -916,10 +803,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_reward_full_star.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DqNP+gC/slD59zjHyD7IAJLxa4I=
-			</data>
 			<key>hash2</key>
 			<data>
 			i09inZhLSy3Mr4jZLwzFKX2FM+IlUrqHKJ6Zup1BucU=
@@ -927,10 +810,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_reward_gift_icon.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Tie/VGB+Mxm88mjsdkosMrQekdQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			bYmFnUeHnfyGUGcsjBeA4Fp2tpLq3FzV5T/Yd9EGPus=
@@ -938,10 +817,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_reward_gift_ribbon.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Lviu1kSgcKZcWsiJY4oozXMn5Bw=
-			</data>
 			<key>hash2</key>
 			<data>
 			mFMIB/O1kUv3g+l+/yT4HclcBhJMjdzCak5NA6Dtvsw=
@@ -949,10 +824,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_reward_gray_star.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			po/jnqLGa8gNq2D5E/VtorLba68=
-			</data>
 			<key>hash2</key>
 			<data>
 			f7NE/1vUlvcyNER6rkl9kPmeZhp9cVx1rbLpiIKd/8g=
@@ -960,10 +831,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_reward_half_star.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yVAAQkvta04YREjIUjZ68l/2j3Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			HvqCywB26mHe4Ab/MePIOFJmk3BgjiwMStUGdPtQ6hk=
@@ -971,10 +838,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_reward_play_close.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CJxdbkqNmBD9RcFJviX4FIruF64=
-			</data>
 			<key>hash2</key>
 			<data>
 			vf0+gsFj3PRSG6/92bvxXTdbpLJixCAWkD98tRi5n80=
@@ -982,10 +845,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_reward_play_dl.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kZ2YUZFtBNAy54Tx0osLsTibAvc=
-			</data>
 			<key>hash2</key>
 			<data>
 			1j/xbHGL3aDDaLxYi6aqby134sznRdfCDdE8HxACBeA=
@@ -993,10 +852,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_reward_play_link.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DpRoYnTLpWU+3cXcqa6M8VaQcbI=
-			</data>
 			<key>hash2</key>
 			<data>
 			4ozQAKfdDhxoDhO+SsVef8tjLNQeSURFZ3B/5fpi4Ts=
@@ -1004,10 +859,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_reward_play_lp.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9FHBw0H1bqM/AeG3+o9KkQfHN2g=
-			</data>
 			<key>hash2</key>
 			<data>
 			W5tM0nU6LBLa06vzYJhaQXvVd86AACphydTIDHZBSgM=
@@ -1015,10 +866,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_smart_dislike.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KSAeX7okCN3yOCXchOn6X1KjwUA=
-			</data>
 			<key>hash2</key>
 			<data>
 			E4tcSNL79qo0edBsri92jaCPuuaOXvQ3cik8jzE2G00=
@@ -1026,10 +873,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_splash_action_anim.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OLyEYqbyOLrSq27sQ7ZxBfgGY0Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			7qIk1/aQw3PTuNXTHYqeaihRhtovXtb02hXsh7+TXAM=
@@ -1037,10 +880,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_splash_action_circle.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			toOV8tX32PGcm5mkqqGpQLMMPS0=
-			</data>
 			<key>hash2</key>
 			<data>
 			5ztmJNWVy74Bm58p1rSyVk1CIVGHJAdAo9mzfja0SCM=
@@ -1048,10 +887,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_splash_action_finger.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			X0gLOsN/suDLx3/+IcZfkbRv5Z0=
-			</data>
 			<key>hash2</key>
 			<data>
 			KVRonSauKLtYKYO7Zd9B0WPPJZHFbxLQt3rHHinAVZg=
@@ -1059,32 +894,97 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_splash_card_icon.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9aqsOSFJfShz0gn7OPM1JO6w32M=
-			</data>
 			<key>hash2</key>
 			<data>
 			1xHnKZpxFlT8cHysPjQrvzCaZxan0BEzCDAY8gqxnsY=
 			</data>
 		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_coupon_back.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CsLZs50uUQqvMixJG1f2eh44O8YwVBob6sb3kvc7q/g=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_coupon_front.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xawTuF6QFtaI7UtGxmd/HMrKpnth/rv3uSkpUFhOsDc=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_coupon_inner.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JSUX9SqqSSpuz3yNH1wpa0B5DHuC5rshV8RwNhmKMiI=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_coupon_max.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hxReIYcnBckkP9/YqSzbovm/gsdxbw+OXHqh0bJRkok=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_coupon_yuan.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PfHjLc5nck6itUzgrsoSsFKXq+UQC/4CpV1dOA3Arms=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_def.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/Ow+uBwo5LA5pt1egerO5SeqVlH6tUcPF153kP1cOKM=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_e_commerce_bg.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0MIC9H/6kc2Akinpe45LYtLx7N9oZYI9bpdHbIIRACo=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_e_commerce_maximum.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dY0/MtIYGMTjjMaEHTwxi9tI1MwS+n7p/n8P9+zKUU4=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_e_commerce_price.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			k/P11gzjvcT64kiHs+fJLgqjUu3gKm6X6CB8BjlnGyc=
+			</data>
+		</dict>
 		<key>baidumobadsdk.bundle/bd_splash_focus.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			aNFBuS7V4C9TpmN8cZxhvtWE8v8=
-			</data>
 			<key>hash2</key>
 			<data>
 			z7fZMwqtTOwrxy4J4edyjyI/QOW1b8Pagyfod/Xiw5g=
 			</data>
 		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_market_bg.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HkdGAI9JdhW3A8LBqM4RxwfypviavtxKPbUpUpSWe+E=
+			</data>
+		</dict>
+		<key>baidumobadsdk.bundle/bd_splash_market_main.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Oi0/HgmTuB+nx6VGA8Xzt03SQYdfU7yvQs7D+ABfiP8=
+			</data>
+		</dict>
 		<key>baidumobadsdk.bundle/bd_splash_shake.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6Ik+/Og+Kg3hrhDeDvBCcTeDxqQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			wk2dz5K2UYkXj60en7AQwB8i8V/b8SlafvTtt3wo+K4=
@@ -1092,10 +992,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_splash_slide_arrow.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YcpR58x+8K73FdHbouvR3+Hp/jU=
-			</data>
 			<key>hash2</key>
 			<data>
 			l3JAejcQTbxmtlofG68Z8KL8ZbKptqIFupi8/iPH8iI=
@@ -1103,10 +999,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_splash_slide_dot.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2hz3+vLPJ7WlvYWeJCI8v4frWU4=
-			</data>
 			<key>hash2</key>
 			<data>
 			D7q3WGs7wMnsXdsw0uhSMcmuLgmaJe7jkxbxJkaLnfQ=
@@ -1114,10 +1006,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_splash_slide_gesture.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vztZysG9sDZuITMRkffV6NswLKE=
-			</data>
 			<key>hash2</key>
 			<data>
 			ql+8rZfZCTBvcvIz9nY0BGaOQzk78tdqGPXAI9qBZwk=
@@ -1125,10 +1013,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_splash_small_red_heart.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mfp+DysA6hbaNagNKyqCZMX04Dg=
-			</data>
 			<key>hash2</key>
 			<data>
 			f7HPpOoNCi7uJyIrPNUOHmkUJjURnkwSM8JACExF6C8=
@@ -1136,10 +1020,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_splash_twist.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			890/FLY1GHH8b8GZoFXAmE+Vz/8=
-			</data>
 			<key>hash2</key>
 			<data>
 			tjOyAtlscEXCaHuFJyojK5HkwlGL2N1nzhIhInCjaxU=
@@ -1147,10 +1027,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_video_deep_colour.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dCZV9M879kmFvzZ2w86YFWbMuI8=
-			</data>
 			<key>hash2</key>
 			<data>
 			NXLDBBfoRj0NLqYALI23nQ5Dwrv3v/ossm/Zxu3RCTs=
@@ -1158,10 +1034,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_video_default_icon.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			bEsvxdqBJeUgqKmMUCVw2UdnT4M=
-			</data>
 			<key>hash2</key>
 			<data>
 			F6HCvR8Hku78T6miM+vSOgTCf6/ctxbdRlF8uJ1veeU=
@@ -1169,10 +1041,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/bd_video_light_colour.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RkQqN+D8Q2jcIaGXtqaG2SdzFyA=
-			</data>
 			<key>hash2</key>
 			<data>
 			cAy8gW2QPgWKl2vRd1+fbiUZU9Qmnyf4bOAFEGX9qEo=
@@ -1180,10 +1048,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/splash_bg.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			K1yIPc8ABhzmz7p9VPZNE2h5ql0=
-			</data>
 			<key>hash2</key>
 			<data>
 			9t3h272efztyJra4HItfqWYJ32jQXggaO+N/zrNB2rc=
@@ -1191,10 +1055,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/white_ad_logo.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Qa017zwDrZIR2om6QrZCbW5CcLw=
-			</data>
 			<key>hash2</key>
 			<data>
 			tGDknGKIgslnhCoOEn+fhRlfRsq55a3MJgfPz2foo3Q=
@@ -1202,10 +1062,6 @@
 		</dict>
 		<key>baidumobadsdk.bundle/white_bqt_logo.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yMhVUON/wEGuqKribz6o3u8xvnQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			EuxM62KtZD8xvkNr+7IA77zlyckUYqy+facc3Ca6tlc=
